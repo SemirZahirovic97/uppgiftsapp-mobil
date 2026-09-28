@@ -9,8 +9,7 @@ Repon:
 
 ## Behövs
 - Node.js 24, .NET SDK 10 och Git
-- Appen **Expo Go** på en telefon, inloggad på ett gratis Expo-konto
-- Datorn och telefonen på **samma Wi-Fi**
+- Dator med webbläsare eller appen Expo go på telefon
 
 ## Så startar du appen
 
