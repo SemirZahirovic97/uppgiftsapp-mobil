@@ -32,8 +32,6 @@ npx expo start
 ```
 Skanna QR-koden med Expo Go (Android) eller kameran (iPhone).
 
-Skanna QR-koden med Expo Go (Android) eller kameran (iPhone).
-
 Vill du i stället köra appen i webbläsaren på datorn, tryck **w** i terminalen efter `npx expo start`. Då öppnas appen på `http://localhost:8081`. Det kräver ingen telefon eller Expo Go, men uppladdning av bild stöds bara i webbappen, inte i mobilappens webbläge.
 
 ## Vad appen kan
